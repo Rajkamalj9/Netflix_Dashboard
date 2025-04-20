@@ -17,7 +17,7 @@ This is an interactive Power BI dashboard built using Netflix's content data. It
 ![Dashboard](Main_dashboard.png)
 ![Dashboard](Movie_dashboard.png)
 ![Dashboard](Tv_show_dashbaord.png)
-![Dashboard](filter_page.png)
+![Dashboard](Filter_page.png)
 
 ---
 
